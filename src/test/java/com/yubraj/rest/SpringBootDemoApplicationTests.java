@@ -1,4 +1,4 @@
-package com.howtodoinjava.rest;
+package com.yubraj.rest;
 
 
 import java.net.URI;
